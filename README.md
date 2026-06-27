@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1470-shuffle-the-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1470-shuffle-the-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
