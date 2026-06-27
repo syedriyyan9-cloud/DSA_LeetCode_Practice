@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1470-shuffle-the-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
+| [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
@@ -87,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
+| [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 ## String Matching
 |  |
 | ------- |
