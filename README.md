@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
