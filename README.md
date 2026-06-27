@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
