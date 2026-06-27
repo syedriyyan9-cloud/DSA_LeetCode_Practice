@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
