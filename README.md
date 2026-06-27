@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 ## String Matching
@@ -113,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
