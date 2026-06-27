@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
