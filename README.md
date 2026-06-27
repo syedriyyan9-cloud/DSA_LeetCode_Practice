@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
