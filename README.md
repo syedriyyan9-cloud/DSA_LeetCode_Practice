@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0229-majority-element-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0229-majority-element-ii) |
