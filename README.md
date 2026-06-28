@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
