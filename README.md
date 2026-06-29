@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0905-sort-array-by-parity](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
 ## Hash Table
