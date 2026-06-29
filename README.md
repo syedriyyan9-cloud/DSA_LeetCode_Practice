@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Prefix Sum
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
