@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
