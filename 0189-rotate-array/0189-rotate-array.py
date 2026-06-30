@@ -11,3 +11,13 @@ class Solution:
         for _ in range(k):
             last = nums.pop()
             nums.insert(0, last)
+        # r = len(nums) - 1
+        # while k > 0:
+        #     temp = nums[r]
+        #     for index in range(len(nums)-1, -1, -1):
+        #         if index == 0:
+        #             nums[index] = temp
+        #         else:
+        #             nums[index] = nums[index-1]
+        #     k -= 1
+        # return nums
