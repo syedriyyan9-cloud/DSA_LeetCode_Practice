@@ -1,15 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s = s.lower()
+        # two pointer approach
         s1 = ""
-        for element in s:
-            if element.isalpha() or element.isdigit():
-                s1 += element
-        s2 = s1[:]
-        s1 = ""
-        for element in s2[::-1]:
-            s1 += element
-        if s1 == s2:
-            return True
-        else:
-            return False
+        for char in s:
+            if char.isdigit() or char.isalpha():
+                s1 += char.lower()
+        l = 0
+        r = len(s1) - 1
+        while l < r:
+            if s1[l] != s1[r]:
+                return False
+            l += 1
+            r -= 1
+        return True
+            
