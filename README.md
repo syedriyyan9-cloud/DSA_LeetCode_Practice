@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1370-increasing-decreasing-string) |
+| [1754-largest-merge-of-two-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2000-reverse-prefix-of-word) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1754-largest-merge-of-two-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1754-largest-merge-of-two-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1754-largest-merge-of-two-strings) |
 <!---LeetCode Topics End-->
