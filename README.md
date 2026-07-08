@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
