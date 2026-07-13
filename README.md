@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
