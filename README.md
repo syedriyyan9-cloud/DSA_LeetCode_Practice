@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -236,9 +238,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
