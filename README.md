@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
