@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
 | [0905-sort-array-by-parity](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Queue
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
