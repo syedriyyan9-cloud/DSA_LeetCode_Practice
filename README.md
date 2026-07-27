@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
