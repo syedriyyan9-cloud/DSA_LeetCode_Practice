@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/2000-reverse-prefix-of-word) |
@@ -265,5 +266,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
