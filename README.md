@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0706-design-hashmap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/syedriyyan9-cloud/DSA_LeetCode_Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
